@@ -21,5 +21,5 @@ The remained issue is integration with the below 2 main files.
 - Androidのボタン等の部品配置方法のマスター
 - タイマー機能の実装
 
-#次回の課題
+次回の課題
 - Android Appの開発howtoを理解してくる
