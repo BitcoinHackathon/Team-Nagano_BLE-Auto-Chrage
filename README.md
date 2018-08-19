@@ -1,8 +1,8 @@
 # Team-Nagano_BLE-Auto-Chrage
 
-BLE-Auto-CHarge AndroidApp is not completed.
-
-This repository have 2 main files.
+BLE-Auto-Charge AndroidApp is not completed.
+The remained issue is integration with the below 2 main files.
+1 is wrriten by Java, 2 it wrriten by kotlin.
 
 1.MultiSig_Hand-On.zip
  This sample script is written by ゆいき@yuikijp.
